@@ -20,6 +20,7 @@ fn main() {
         7 => aoc22::day07::run(),
         8 => aoc22::day08::run(),
         9 => aoc22::day09::run(),
+        10 => aoc22::day10::run(),
         _ => println!("Unregonised day argument"),
     };
 }
