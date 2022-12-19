@@ -1,6 +1,5 @@
 use crate::load_input;
 use std::collections::HashMap;
-use std::str::Lines;
 
 pub fn run() {
     println!("DAY 7:");
